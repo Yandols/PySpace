@@ -1,7 +1,7 @@
 {
     "AUTHOR" : "Yandols",
     "INSTALL_MSG" : "Disclaimer: Cogs installed from this repository are mostly edits of existing cogs done by other people. They come with no warranty and may or may not work accordingly.",
-    "NAME" : "Yandols\'s Discord Red Cogs",
-    "SHORT" : "Yandols\' edits of existing cogs by other people",
+    "NAME" : "Yandols' Discord Red Cogs",
+    "SHORT" : "Yandols' edits of existing cogs by other people",
     "DESCRIPTION" : "Mostly edits of existing Red-DiscordBot cogs into a more server-specific cog. Original cogs coming when I finally properly learn Python."
 }

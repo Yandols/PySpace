@@ -1,8 +1,8 @@
 {
     "AUTHOR" : "Yandols",
-    "INSTALL_MSG" : "Disclaimer: This cog is an edit of Eslyium\'s slap cog.",
+    "INSTALL_MSG" : "Disclaimer: This cog is an edit of Eslyium's slap cog.",
     "NAME" : "Poke",
     "SHORT" : "Pokes a user with an addable item.",
-    "DESCRIPTION" : "Pokes a user with an addable item.`nAn edit of Eslyium\'s slap cog."
-    "DISABLED" : false,
+    "DESCRIPTION" : "Pokes a user with an addable item.`nAn edit of Eslyium's slap cog.",
+    "DISABLED" : false
 }
