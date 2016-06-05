@@ -33,9 +33,9 @@ class poke:
         if ctx.invoked_subcommand is None:
             if user.id == self.bot.user.id:
                 user = ctx.message.author
-                await self.bot.say("Dont make me poke you instead " + user.name)
+                await self.bot.say("Dont make me poke you instead " + user.mention)
                 return
-            await self.bot.say("-pokes " + user.name + " with " +
+            await self.bot.say("-pokes " + user.mention + " with " +
                                (rndchoice(self.items) + "-"))
 
     @poke.command()
