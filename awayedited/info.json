@@ -3,6 +3,6 @@
     "INSTALL_MSG" : "This cog allows to set the user as away. When someone mentions the users the bot replies with either its own message or a message set by the user that the user is away. \n**Disclaimer:** This cog is an edit of Paddo's away cog.",
     "NAME" : "AwayEdited",
     "SHORT" : "Sets the user as away with a custom message.",
-    "DESCRIPTION" : "Sets the user as away. When someone mentions the users the bot replies with either its own message or a message set by the user that the user is away.\nAn edit of Eslyium's slap cog.",
+    "DESCRIPTION" : "Sets the user as away. When someone mentions the users the bot replies with either its own message or a message set by the user that the user is away.\nAn edit of Paddo's away cog.",
     "DISABLED" : false
 }
